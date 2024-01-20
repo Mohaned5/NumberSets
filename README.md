@@ -1,6 +1,6 @@
 # NumberSets
 
-(No addi>onal libraries are used apart from <vector>, <iostream>, <memory> and <string>.)
+(No additional libraries are used apart from vector, iostream, memory and string.)
 
 # The Puzzle
 
