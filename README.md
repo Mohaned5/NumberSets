@@ -1,4 +1,4 @@
-# NumberSets
+# Sudoku NumberSets
 
 NumberSets is a number puzzle similar to Sudoku, played on a 9x9 board where white and black cells are partially filled with numbers. The goal is to fill the empty white cells according to specific rules. This program fills the board's empty white cells while adhering to the provided rules.
 
